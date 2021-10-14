@@ -7,3 +7,12 @@ info_dashboard.innerHTML = `<h1>${dashboard.name}</h1><h4>${dashboard.title}</h4
 social_connect.map(item=>{
 return info_dashboard.innerHTML += ` <a class="social-button" href="${item["social-link"]}'"><i class="${item["social-icon"]}"></i><span class="social-icons">${item["social-title"]}</span></a> `
 })
+
+//about us
+
+document.querySelector('#about-us').innerHTML = `<p>${dashboard.about}</p>`;
+
+// freelance services
+freelance_service.map(item=>{
+return document.querySelector("#freelance-service").innerHTML += `<div class="service-container"><div class="service-image"><img src="${item.image}" height="200px" width="200px"/></div><div class="service-title">${item.title}</div><div class="service-content">${item.content}</div></div>`
+});

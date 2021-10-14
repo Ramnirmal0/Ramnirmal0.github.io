@@ -1,8 +1,8 @@
 const dashboard = {
     "dp":"https://dummyimage.com/600x400/000/fff.png",
     "name" : "Nirmal Ram",
-    "title" :"Full Stack Developer | Freelancer | Wordpress Exprert ",
-    "about":"this is about me"
+    "title" :"Software Engineer - Full Stack Developer | MERN Stack | Wordpress Expert | Researcher in Robotics & IoT",
+    "about":"I worked as a freelancer for around 3-year during my college years before my first full-time job with an employer.I love to code and develop attractive, responsive, and faster web applications.My specialties include quickly learning new skills and programming languages, website optimization, and the MVC method of organizing code.My superpowers include strong knowledge in Javascript, ES6, HTML5, BootStrap, CSS3/SCSS/SASS, React.js, Node.js, Redux, Express.js, MongoDB, MySQL, PHP, Python, Java8, Appium, OpenSTF,Selenium,Swagger,Keycloak, Docker.I'm still enthusiastically grabbing onto any programming language, framework, or principle I can integrate into the coding web in my head.My other hobbies are study and Research about Space Science & Robotics, Mentoring for IoT and Robotics projects, Teaching and learning new stuff every day."
 }
 
 // get icons from https://fontawesome.com/v5.15/
@@ -26,7 +26,32 @@ const social_connect = [
 
 const freelance_service=[
     {
-        "image":"#",
+        "image":"https://dummyimage.com/600x400/000/fff.png",
+        "title":"Service 1",
+        "content":"this is more about it",
+    },
+    {
+        "image":"https://dummyimage.com/600x400/000/fff.png",
+        "title":"Service 1",
+        "content":"this is more about it",
+    },
+    {
+        "image":"https://dummyimage.com/600x400/000/fff.png",
+        "title":"Service 1",
+        "content":"this is more about it",
+    },
+    {
+        "image":"https://dummyimage.com/600x400/000/fff.png",
+        "title":"Service 1",
+        "content":"this is more about it",
+    },
+    {
+        "image":"https://dummyimage.com/600x400/000/fff.png",
+        "title":"Service 1",
+        "content":"this is more about it",
+    },
+    {
+        "image":"https://dummyimage.com/600x400/000/fff.png",
         "title":"Service 1",
         "content":"this is more about it",
     },

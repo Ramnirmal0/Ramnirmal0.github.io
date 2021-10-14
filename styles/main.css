@@ -5,12 +5,14 @@
     --bgColor: rgb(14, 13, 13);
     --divColor:rgb(31, 31, 31);
     --bioColor : rgb(192, 106, 7);
+    --cardColor:rgb(206, 206, 206);
 }
 body{
     font-family: 'Roboto', sans-serif;
     color:var(--textColor);
-    background:var(--divColor);
+    background:var(--bgColor);
     margin:0;
+    cursor: pointer;
 }
 
 .dashboard-container{
@@ -20,9 +22,9 @@ body{
     align-items: center;
     padding: 30px ;
     flex-wrap: wrap;
-    box-shadow: 1px -3px 5px 0px rgba(0,0,0,0.75) inset;
+    /* box-shadow: 1px -3px 5px 0px rgba(0,0,0,0.75) inset;
 -webkit-box-shadow: 1px -3px 5px 0px rgba(0,0,0,0.75) inset;
--moz-box-shadow: 1px -3px 5px 0px rgba(0,0,0,0.75) inset;
+-moz-box-shadow: 1px -3px 5px 0px rgba(0,0,0,0.75) inset; */
 
     
 }
@@ -31,6 +33,7 @@ body{
     padding:3px 5px;
     text-decoration: none;
     color: white;
+    border-radius: 5px;
     
 }
 .social-button:hover{
@@ -47,3 +50,57 @@ h4{
     color:var(--bioColor);
 }
 
+/* .main-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    margin:2px;
+} */
+
+.heading{
+    margin:15px 5%;
+}
+
+.div-container{
+
+    margin:15px 5%;
+    border:3px solid transparent;
+    border-left-color: red;
+    padding:30px;
+    background: var(--divColor);
+    opacity: 0.6;
+    box-shadow: 4px 4px 4px -1px rgba(0,0,0,0.79);
+    -webkit-box-shadow: 4px 4px 4px -1px rgba(0,0,0,0.79);
+    -moz-box-shadow: 4px 4px 4px -1px rgba(0,0,0,0.79);
+}
+.div-container:hover{
+    opacity:1;
+}
+#freelance-service{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+.service-container{
+    overflow:hidden;
+    border-radius: 20px;
+    margin:20px;
+    background: var(--cardColor);
+    color:black;
+
+}
+.service-image{
+
+}
+.service-title{
+    text-align: center;
+    padding:12px 0px;
+
+}
+.service-content{
+    padding:10px;
+    padding-bottom: 20px;
+
+}
