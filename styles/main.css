@@ -31,7 +31,7 @@ body{
 }
 .social-button:hover{
     color:black;
-    background: rgb(145, 145, 145);
+    background: white;
     font-weight: 400;
 }
 .social-icons{
