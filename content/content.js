@@ -60,8 +60,43 @@ const freelance_service=[
 
 const techStack=[
     {
-        "icon":"#",
-        "title":"nodejs",
+        "icon":"https://img.icons8.com/office/48/000000/react.png",
+        "title":"Reactjs",
+        "link":"#",
+    },
+    {
+        "icon":"https://img.icons8.com/color/48/000000/mongodb.png",
+        "title":"MongoDb",
+        "link":"#",
+    },
+    {
+        "icon":"https://img.icons8.com/color/58/000000/nodejs.png",
+        "title":"Nodejs",
+        "link":"#",
+    },
+    {
+        "icon":"https://img.icons8.com/color/48/000000/angularjs.png",
+        "title":"Angular",
+        "link":"#",
+    },
+    {
+        "icon":"https://img.icons8.com/color/48/000000/docker.png",
+        "title":"Docker",
+        "link":"#",
+    },
+    {
+        "icon":"https://img.icons8.com/color/48/000000/git.png",
+        "title":"Git",
+        "link":"#",
+    },
+    {
+        "icon":"https://img.icons8.com/color/48/000000/wordpress.png",
+        "title":"Wordpress",
+        "link":"#",
+    },
+    {
+        "icon":"https://img.icons8.com/color/48/000000/cloud-function.png",
+        "title":"Swagger",
         "link":"#",
     },
 

@@ -91,9 +91,6 @@ h4{
     color:black;
 
 }
-.service-image{
-
-}
 .service-title{
     text-align: center;
     padding:12px 0px;
@@ -102,5 +99,20 @@ h4{
 .service-content{
     padding:10px;
     padding-bottom: 20px;
+
+}
+#tech-stack{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.stack-container{
+    margin: 30px;
+
+}
+
+.stack-title{
+    color:orange;
 
 }

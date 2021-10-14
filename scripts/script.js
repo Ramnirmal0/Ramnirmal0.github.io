@@ -14,5 +14,10 @@ document.querySelector('#about-us').innerHTML = `<p>${dashboard.about}</p>`;
 
 // freelance services
 freelance_service.map(item=>{
-return document.querySelector("#freelance-service").innerHTML += `<div class="service-container"><div class="service-image"><img src="${item.image}" height="200px" width="200px"/></div><div class="service-title">${item.title}</div><div class="service-content">${item.content}</div></div>`
+return document.querySelector("#freelance-service").innerHTML += `<div class="service-container"><div><img src="${item.image}" height="200px" width="200px"/></div><div class="service-title">${item.title}</div><div class="service-content">${item.content}</div></div>`
+});
+
+//tech stack
+techStack.map(item=>{
+return document.querySelector('#tech-stack').innerHTML += `<div class="stack-container"><div class="stack-logo"><a href="${item.link}"><img src="${item.icon}" title="${item.title}"/></a></div></div>`
 });
