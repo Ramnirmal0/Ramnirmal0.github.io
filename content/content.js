@@ -1,14 +1,25 @@
 const dashboard = {
     "dp":"https://dummyimage.com/600x400/000/fff.png",
     "name" : "Nirmal Ram",
-    "title" :"developer",
+    "title" :"Full Stack Developer | Freelancer | Wordpress Exprert ",
     "about":"this is about me"
 }
 
+// get icons from https://fontawesome.com/v5.15/
 const social_connect = [
     {
-        "social-icon":"#",
+        "social-icon":"fab fa-linkedin-in",
         "social-title":"LinkedIn",
+        "social-link":"tel:+918589838398",
+    },
+    {
+        "social-icon":"fab fa-whatsapp",
+        "social-title":"WhatsApp",
+        "social-link":"#",
+    },
+    {
+        "social-icon":"fab fa-google",
+        "social-title":"Gmail",
         "social-link":"#",
     },   
 ]
