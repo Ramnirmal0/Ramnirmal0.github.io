@@ -2,24 +2,28 @@
 
 :root{
     --textColor: white;
-    --bgColor: rgb(12, 14, 29);
-    --divColor:rgb(31, 34, 51);
+    --bgColor: rgb(14, 13, 13);
+    --divColor:rgb(31, 31, 31);
     --bioColor : rgb(192, 106, 7);
 }
 body{
     font-family: 'Roboto', sans-serif;
     color:var(--textColor);
-    background:var(--bgColor);
+    background:var(--divColor);
     margin:0;
 }
 
 .dashboard-container{
+    background:var(--bgColor);
     display: flex;
     justify-content: space-evenly;
     align-items: center;
     padding: 30px ;
     flex-wrap: wrap;
-    border:1px solid white;
+    box-shadow: 1px -3px 5px 0px rgba(0,0,0,0.75) inset;
+-webkit-box-shadow: 1px -3px 5px 0px rgba(0,0,0,0.75) inset;
+-moz-box-shadow: 1px -3px 5px 0px rgba(0,0,0,0.75) inset;
+
     
 }
 .social-button{
@@ -41,5 +45,5 @@ body{
 }
 h4{
     color:var(--bioColor);
-
 }
+
