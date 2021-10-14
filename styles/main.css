@@ -1,14 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
 :root{
     --textColor: white;
     --bgColor: rgb(12, 14, 29);
     --divCOlor:rgb(31, 34, 51);
 }
 body{
+    font-family: 'Roboto', sans-serif;
     color:var(--textColor);
     background:var(--bgColor);
     margin:0;
 }
-.dashboard{
-    background: var(--divCOlor);
-    padding: 200px;
+
+.dashboard-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 30px 30%;
+    flex-wrap: wrap;
+
 }

@@ -1,5 +1,5 @@
 const dashboard = {
-    "dp":"#",
+    "dp":"https://dummyimage.com/600x400/000/fff.png",
     "name" : "Nirmal Ram",
     "title" :"developer",
     "about":"this is about me"
