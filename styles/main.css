@@ -1,0 +1,14 @@
+:root{
+    --textColor: white;
+    --bgColor: rgb(12, 14, 29);
+    --divCOlor:rgb(31, 34, 51);
+}
+body{
+    color:var(--textColor);
+    background:var(--bgColor);
+    margin:0;
+}
+.dashboard{
+    background: var(--divCOlor);
+    padding: 200px;
+}
