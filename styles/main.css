@@ -125,6 +125,7 @@ h4{
     margin:20px;
     background: var(--cardColor);
     color:white;
+    text-align: center;
 
 }
 .service-title{

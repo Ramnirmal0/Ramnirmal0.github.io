@@ -154,12 +154,12 @@ const portfolio=[
         "link":"http://ausmart.in/",
     },
     {
-        "image":"https://www.everbrighttradex.com/static/images/output-onlinepngtools.png",
+        "image":"./assets/img/oie_CkJ5jXXcsnbo.png",
         "title":"EverBright Tradex",
         "link":"https://www.everbrighttradex.com/",
     },
     {
-        "image":"https://lh4.googleusercontent.com/sYHfSf_xKx1zu9yEjWfAlv7ZkX22eJ4DKx4dfeIptww0c_JVFNNg1q2264oSbJd53n7Y6Wx4tFRG5bjbVwf7XtM=w16383",
+        "image":"./assets/img/transparent.png",
         "title":"Power-Engg Co.",
         "link":"http://www.powerengineeringvadakara.ml/",
     },
