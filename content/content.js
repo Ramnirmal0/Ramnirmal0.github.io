@@ -1,5 +1,5 @@
 const dashboard = {
-    "dp":"https://dummyimage.com/600x400/000/fff.png",
+    "dp":"./assests/img/nirmal.png",
     "name" : "Nirmal Ram",
     "title" :"Software Engineer - Full Stack Developer | Freelancer | MEARN Stack Developer | Wordpress Expert | Researcher in Robotics & IoT",
     "about":"I worked as a freelancer for around 3-year during my college years before my first full-time job with an employer.Today i am leading few tech startups for passive income.<br><br> As a professional, I love to code and develop attractive, responsive, and faster web applications.My specialties include quickly learning new skills and programming languages, website optimization, and the MVC method of organizing code.My superpowers include strong knowledge in Javascript, ES6, HTML5, BootStrap, CSS3/SCSS/SASS, React.js, Node.js, Redux, Express.js, MongoDB, MySQL, PHP, Python, Java8, Appium, OpenSTF, Selenium, Swagger, Keycloak, Docker.<br><br>I'm still enthusiastically grabbing onto any programming language, framework, or principle I can integrate into the coding web in my head.My other hobbies are Sky Gazing, Binge Watching and Research about Space Science & Robotics, Mentoring for IoT and Robotics projects, Teaching and learning new stuff every day.<br><br>Visit my linkedIn profile for more information about my certification and achievements."
@@ -258,15 +258,15 @@ const startup=[
     {
         "logo":"./assets/img/logo1.png",
         "name":"Pineapplem3 Inc.",
-        "link":"https://www.apollo.io/companies/PineappleM3/5b14d400a6da98714a06bbb6"
+        "link":"#"
     },
     {
-        "logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMRyBAljeXiLyp-y5tAJH6FpRcUQJQfZWllw&usqp=CAU",
+        "logo":"./assets/img/logo2.png",
         "name":"torQue+ Inc.",
         "link":"#"
     },
     {
-        "logo":"https://storage.googleapis.com/cloudprod-apiai/98c3138c-6a96-49b8-8f67-e4679900e118_x.png",
+        "logo":"./assets/img/logo3.png",
         "name":"Gene A.I",
         "link":"#"
     },
