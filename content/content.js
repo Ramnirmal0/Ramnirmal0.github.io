@@ -216,4 +216,4 @@ const social_profile= [
 
 ]
 
-const copyrighted = `2021 &copy; | Creator : Nirmal Ram`;
+const copyrighted = "Crafted by Nirmal Ram";

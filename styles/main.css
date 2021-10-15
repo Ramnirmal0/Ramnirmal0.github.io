@@ -78,6 +78,7 @@ body{
 }
 #social-Prof{
     font-size: 40px;
+    color:white;
 }
 
 h4{
@@ -164,4 +165,14 @@ h4{
     padding:5px;
     border-radius:3px;
     
+}
+
+.footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom:20px;
+    padding: 10px 45px;
+    color:gray;
+    font-size: 15px;
 }

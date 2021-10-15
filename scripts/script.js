@@ -56,3 +56,5 @@ tech_forum.map(item=>{
 social_profile.map(item=>{
     return document.querySelector('#social-profiles').innerHTML += `<div class="stack-container"><div class="stack-logo"><a href="${item.link}"><i id="social-Prof" class="${item.icon}" title="${item.title}"></i></a></div></div>`
 });
+
+document.querySelector('.footer').innerHTML = `<div>Ver.1.0.21</div><div>${copyrighted}</div><div>©2021</div>`
