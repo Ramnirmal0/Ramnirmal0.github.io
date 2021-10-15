@@ -37,17 +37,22 @@ research.map(item=>{
     return document.querySelector('#research').innerHTML += `<div class="stack-container"><div class="stack-logo"><img src="${item.image}" height="50px" width="50px" title="${item.title}"/></div><div class="stack-title">${item.title}</div><div>${item.desc}</div><br><button class="${item.status}">${item.status}</button></div>`
 });
 
+//publication
+publication.map(item=>{
+    return document.querySelector('#publication').innerHTML += `<div class="stack-container"><div class="publication_title"><i class="fas fa-book"></i> &nbsp;&nbsp; ${item.title}</div><br><div class="publication_desc">Publisher : ${item.publisher}</div><br><a class="pub_btn" href="${item.link}">View Paper</a></div><br> `
+});
+
 //startup-owned
-techStack.map(item=>{
-    return document.querySelector('#startup-owned').innerHTML += `<div class="stack-container"><div class="stack-logo"><a href="${item.link}"><img src="${item.icon}" title="${item.title}"/></a></div><div class="stack-title">${item.title}</div></div>`
+startup.map(item=>{
+    return document.querySelector('#startup-owned').innerHTML += `<div class="stack-container"><div class="stack-logo"><a href="${item.link}"><img src="${item.logo}" height="50px" width="50px" title="${item.name}"/></a></div><div class="stack-title">${item.name}</div></div>`
 });
 
 //technical-writes
-techStack.map(item=>{
-    return document.querySelector('#tech-blog').innerHTML += `<div class="stack-container"><div class="stack-logo"><a href="${item.link}"><img src="${item.icon}" title="${item.title}"/></a></div><div class="stack-title">${item.title}</div></div>`
+tech_forum.map(item=>{
+    return document.querySelector('#tech-blog').innerHTML += `<div class="stack-container"><div class="stack-logo"><a href="${item.link}"><img src="${item.logo}" height="50px" width="50px" title="${item.title}"/></a></div><div class="stack-title">${item.title}</div></div>`
 });
 
 //social-profile
-techStack.map(item=>{
-    return document.querySelector('#social-profiles').innerHTML += `<div class="stack-container"><div class="stack-logo"><a href="${item.link}"><img src="${item.icon}" title="${item.title}"/></a></div><div class="stack-title">${item.title}</div></div>`
+social_profile.map(item=>{
+    return document.querySelector('#social-profiles').innerHTML += `<div class="stack-container"><div class="stack-logo"><a href="${item.link}"><i id="social-Prof" class="${item.icon}" title="${item.title}"></i></a></div></div>`
 });

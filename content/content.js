@@ -174,23 +174,46 @@ const publication =[
     {
         "title":"ugv landmine ",
         "publisher":"ijtsrd",
-        "link":"#"
+        "link":"#",
+    },
+    {
+        "title":"ugv landmine ",
+        "publisher":"ijtsrd",
+        "link":"#",
     },
 ]
 
 const startup=[
     {
         "logo":"",
-        "name":"",
+        "name":"Pineapplem3 Inc",
+        "link":"#"
+    },
+    {
+        "logo":"",
+        "name":"Pineapplem3 Inc",
+        "link":"#"
     },
 ]
 
 const tech_forum =[
     {
         "logo":"",
-        "title":"",
-        "link":"",
+        "title":"dev.io",
+        "link":"#",
     },
+]
+
+const social_profile= [
+    {
+        "icon":"fab fa-linkedin-in",
+        "title":"LinkedIn"
+    },
+    {
+        "icon":"fab fa-whatsapp",
+        "title":"whatsapp"
+    },
+
 ]
 
 const copyrighted = `2021 &copy; | Creator : Nirmal Ram`;

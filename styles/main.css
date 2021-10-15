@@ -76,6 +76,10 @@ body{
     margin-top:20px;
     
 }
+#social-Prof{
+    font-size: 40px;
+}
+
 h4{
     color:var(--bioColor);
 }
@@ -146,4 +150,18 @@ h4{
     text-align: center;
     color:rgb(43, 226, 195);
 
+}
+.publication_desc{
+    font-size: 15px;
+}
+.publication_title{
+    font-size: 23px;
+}
+.pub_btn{
+    text-decoration: none;
+    color:black;
+    background: white;
+    padding:5px;
+    border-radius:3px;
+    
 }
