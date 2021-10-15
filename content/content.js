@@ -270,6 +270,12 @@ const startup=[
         "name":"Gene A.I",
         "link":"#"
     },
+    {
+        "logo":"https://cdn4.iconfinder.com/data/icons/spring-color-2/64/bee-honey-hive-insect-bumblebee-512.png",
+        "name":"Hive MIND",
+        "link":"#"
+    },
+
 ]
 
 const tech_forum =[
