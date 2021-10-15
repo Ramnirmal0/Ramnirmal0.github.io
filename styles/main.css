@@ -5,7 +5,7 @@
     --bgColor: rgb(14, 13, 13);
     --divColor:rgb(31, 31, 31);
     --bioColor : rgb(192, 106, 7);
-    --cardColor:rgb(206, 206, 206);
+    --cardColor:rgb(15, 15, 15);
     --ongoing:orange;
     --active:green;
     --inactive:grey;
@@ -111,6 +111,7 @@ h4{
 }
 .div-container:hover{
     opacity:1;
+    border-left-color: yellow;
 }
 #freelance-service{
     display: flex;
@@ -123,7 +124,7 @@ h4{
     border-radius: 20px;
     margin:20px;
     background: var(--cardColor);
-    color:black;
+    color:white;
 
 }
 .service-title{
