@@ -70,7 +70,7 @@ const techStack=[
         "link":"#",
     },
     {
-        "icon":"https://img.icons8.com/color/58/000000/nodejs.png",
+        "icon":"https://img.icons8.com/color/48/000000/nodejs.png",
         "title":"Nodejs",
         "link":"#",
     },

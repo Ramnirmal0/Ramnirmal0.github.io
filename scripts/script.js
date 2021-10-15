@@ -19,5 +19,5 @@ return document.querySelector("#freelance-service").innerHTML += `<div class="se
 
 //tech stack
 techStack.map(item=>{
-return document.querySelector('#tech-stack').innerHTML += `<div class="stack-container"><div class="stack-logo"><a href="${item.link}"><img src="${item.icon}" title="${item.title}"/></a></div></div>`
+return document.querySelector('#tech-stack').innerHTML += `<div class="stack-container"><div class="stack-logo"><a href="${item.link}"><img src="${item.icon}" title="${item.title}"/></a></div><div class="stack-title">${item.title}</div></div>`
 });
