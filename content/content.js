@@ -2,7 +2,7 @@ const dashboard = {
     "dp":"https://dummyimage.com/600x400/000/fff.png",
     "name" : "Nirmal Ram",
     "title" :"Software Engineer - Full Stack Developer | Freelancer | MEARN Stack Developer | Wordpress Expert | Researcher in Robotics & IoT",
-    "about":"I worked as a freelancer for around 3-year during my college years before my first full-time job with an employer.Today i am leading few tech startups for passive income.<br><br> As a professional, I love to code and develop attractive, responsive, and faster web applications.My specialties include quickly learning new skills and programming languages, website optimization, and the MVC method of organizing code.My superpowers include strong knowledge in Javascript, ES6, HTML5, BootStrap, CSS3/SCSS/SASS, React.js, Node.js, Redux, Express.js, MongoDB, MySQL, PHP, Python, Java8, Appium, OpenSTF, Selenium, Swagger, Keycloak, Docker.<br><br>I'm still enthusiastically grabbing onto any programming language, framework, or principle I can integrate into the coding web in my head.My other hobbies are Sky Gazing, Binge Watching and Research about Space Science & Robotics, Mentoring for IoT and Robotics projects, Teaching and learning new stuff every day."
+    "about":"I worked as a freelancer for around 3-year during my college years before my first full-time job with an employer.Today i am leading few tech startups for passive income.<br><br> As a professional, I love to code and develop attractive, responsive, and faster web applications.My specialties include quickly learning new skills and programming languages, website optimization, and the MVC method of organizing code.My superpowers include strong knowledge in Javascript, ES6, HTML5, BootStrap, CSS3/SCSS/SASS, React.js, Node.js, Redux, Express.js, MongoDB, MySQL, PHP, Python, Java8, Appium, OpenSTF, Selenium, Swagger, Keycloak, Docker.<br><br>I'm still enthusiastically grabbing onto any programming language, framework, or principle I can integrate into the coding web in my head.My other hobbies are Sky Gazing, Binge Watching and Research about Space Science & Robotics, Mentoring for IoT and Robotics projects, Teaching and learning new stuff every day.<br><br>Visit my linkedIn profile for more information about my certification and achievements."
 }
 
 // get icons from https://fontawesome.com/v5.15/
@@ -109,99 +109,165 @@ const techStack=[
         "title":"JSON Web Token",
         "link":"#",
     },
+    {
+        "icon":"https://img.icons8.com/color/48/000000/heroku.png",
+        "title":"Heroku",
+        "link":"#",
+    },
+    {
+        "icon":"https://img.icons8.com/fluency/48/000000/mysql-logo.png",
+        "title":"MySQL",
+        "link":"#",
+    },
+    {
+        "icon":"https://img.icons8.com/fluency/48/000000/selenium-test-automation.png",
+        "title":"Selenium",
+        "link":"#",
+    },
+    {
+        "icon":"https://img.icons8.com/color/48/000000/c-sharp-logo.png",
+        "title":"CSharp",
+        "link":"#",
+    },
+    {
+        "icon":"https://img.icons8.com/color/48/000000/raspberry-pi.png",
+        "title":"Raspberry-pi",
+        "link":"#",
+    },
+    {
+        "icon":"https://img.icons8.com/color/48/000000/amazon-web-services.png",
+        "title":"Amazon Web Service",
+        "link":"#",
+    },
+    {
+        "icon":"https://img.icons8.com/windows/48/000000/elementor.png",
+        "title":"Elementor",
+        "link":"#",
+    },
 
 ]
 
 const portfolio=[
     {
-        "image":"#",
-        "title":"ausmart",
-        "link":"#",
+        "image":"https://ausmart.in/wp-content/uploads/2021/10/100x87-01-1.png",
+        "title":"Ausmart",
+        "link":"http://ausmart.in/",
     },
     {
-        "image":"#",
-        "title":"ausmart",
-        "link":"#",
+        "image":"https://www.everbrighttradex.com/static/images/output-onlinepngtools.png",
+        "title":"EverBright Tradex",
+        "link":"https://www.everbrighttradex.com/",
     },
     {
-        "image":"#",
-        "title":"ausmart",
-        "link":"#",
+        "image":"https://lh4.googleusercontent.com/sYHfSf_xKx1zu9yEjWfAlv7ZkX22eJ4DKx4dfeIptww0c_JVFNNg1q2264oSbJd53n7Y6Wx4tFRG5bjbVwf7XtM=w16383",
+        "title":"Power-Engg Co.",
+        "link":"http://www.powerengineeringvadakara.ml/",
+    },
+    {
+        "image":"https://iedcsahrdaya.co.in/wp-content/uploads/2019/07/IEDC-TRANSPARENT-LOGO.png",
+        "title":"IEDC-Sahrdaya",
+        "link":"https://iedcsahrdaya.co.in/",
     },
 ]
 
 const contribution=[
     {
-        "logo":"#",
+        "logo":"https://cdn.pixabay.com/photo/2020/04/29/07/54/coronavirus-5107715_1280.png",
+        "title":"Covid Tracker",
+        "platform":"Netlify",
+        "status":"Active",
+        "link":"https://nirmal-realtime-covid19-tracker.netlify.app/",
+        "message":"click on image",
+    },
+    {
+        "logo":"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gmail.max-1100x1100.png",
+        "title":"Gmail-Clone",
+        "platform":"Netlify",
+        "status":"Active",
+        "link":"https://nirmal-gmail-clone-ui.netlify.app/",
+        "message":"click on image",
+    },
+    {
+        "logo":"https://cdn-icons-png.flaticon.com/512/25/25231.png",
         "title":"torque++ software",
         "platform":"github",
         "status":"Ongoing",
         "link":"#",
-        "message":"no permisssion to view",
+        "message":"No permission to view private Repos",
     },
     {
-        "logo":"#",
-        "title":"torque++ software",
+        "logo":"https://cdn-icons-png.flaticon.com/512/25/25231.png",
+        "title":"Astra UGV",
+        "platform":"github",
+        "status":"Ongoing",
+        "link":"#",
+        "message":"No permission to view private Repos",
+    },
+    {
+        "logo":"https://cdn-icons-png.flaticon.com/512/25/25231.png",
+        "title":"JunkyBox",
         "platform":"github",
         "status":"Active",
-        "link":"#",
-        "message":"no permisssion to view",
+        "link":"https://github.com/Ramnirmal0/Junkybox-Robot",
+        "message":"click on image",
     },
     {
-        "logo":"#",
-        "title":"torque++ software",
-        "platform":"github",
-        "status":"Inactive",
-        "link":"#",
-        "message":"no permisssion to view",
-    },
-    {
-        "logo":"#",
-        "title":"torque++ software",
+        "logo":"https://cdn-icons-png.flaticon.com/512/25/25231.png",
+        "title":"Gene2.1",
         "platform":"github",
         "status":"Deprecated",
         "link":"#",
-        "message":"no permisssion to view",
+        "message":"code Deprecated",
     },
 ]
 
 const research =[
     {
-        "image":"#",
-        "title":"Hashpion OS",
-        "desc":"Linux based Distros",
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png",
+        "title":"HashpionOS",
+        "desc":"Linux Distros",
         "status":"Ongoing"
     },
     {
-        "image":"#",
+        "image":"https://cdn4.iconfinder.com/data/icons/spring-color-2/64/bee-honey-hive-insect-bumblebee-512.png",
         "title":"Hive MIND",
-        "desc":"Swarm robotics",
-        "status":"Active"
+        "desc":"Swarmbotics",
+        "status":"Ongoing"
     },
 ]
 
 const publication =[
     {
-        "title":"ugv landmine ",
-        "publisher":"ijtsrd",
-        "link":"#",
+        "title":"Implementation of Unmanned Ground Vehicle for landmine and bomb detection with swarm intelligence",
+        "publisher":"HBRP publication",
+        "link":"https://zenodo.org/record/3935416#.YWnecvwzbth",
     },
     {
-        "title":"ugv landmine ",
-        "publisher":"ijtsrd",
-        "link":"#",
+        "title":"Design of Unmanned ground vehicle for landmine and bomb detection using software defined RADAR",
+        "publisher":"HBRP publication",
+        "link":"https://zenodo.org/record/3725684#.YWne6Pwzbtg",
+    },
+    {
+        "title":"Moving grocery store using AI powered robots",
+        "publisher":"IJTSRD",
+        "link":"https://www.ijtsrd.com/engineering/computer-engineering/23328/moving-grocery-store-using-ai-powered-robots/nirmal-ram",
     },
 ]
 
 const startup=[
     {
-        "logo":"",
-        "name":"Pineapplem3 Inc",
+        "logo":"https://zenprospect-production.s3.amazonaws.com/uploads/pictures/60586fd801a8ad00018d7965/picture",
+        "name":"Pineapplem3 Inc.",
+        "link":"https://www.apollo.io/companies/PineappleM3/5b14d400a6da98714a06bbb6"
+    },
+    {
+        "logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMRyBAljeXiLyp-y5tAJH6FpRcUQJQfZWllw&usqp=CAU",
+        "name":"torQue+ Inc.",
         "link":"#"
     },
     {
-        "logo":"",
-        "name":"Pineapplem3 Inc",
+        "logo":"https://storage.googleapis.com/cloudprod-apiai/98c3138c-6a96-49b8-8f67-e4679900e118_x.png",
+        "name":"Gene A.I",
         "link":"#"
     },
 ]
@@ -217,12 +283,25 @@ const tech_forum =[
 const social_profile= [
     {
         "icon":"fab fa-linkedin-in",
-        "title":"LinkedIn"
+        "title":"LinkedIn",
+        "link":"https://www.linkedin.com/in/nirmalram/",
     },
     {
-        "icon":"fab fa-whatsapp",
-        "title":"whatsapp"
+        "icon":"fab fa-instagram",
+        "title":"Instagram",
+        "link":"https://www.instagram.com/nirmal_ram_/",
     },
+    {
+        "icon":"fab fa-youtube",
+        "title":"Youtube",
+        "link":"https://www.youtube.com/channel/UCcWhQy98B8hjmSEvdeqzimg",
+    },
+    {
+        "icon":"fab fa-github",
+        "title":"Github",
+        "link":"https://github.com/Ramnirmal0",
+    },
+
 
 ]
 

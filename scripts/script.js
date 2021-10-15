@@ -48,9 +48,9 @@ startup.map(item=>{
 });
 
 //technical-writes
-tech_forum.map(item=>{
-    return document.querySelector('#tech-blog').innerHTML += `<div class="stack-container"><div class="stack-logo"><a href="${item.link}"><img src="${item.logo}" height="50px" width="50px" title="${item.title}"/></a></div><div class="stack-title">${item.title}</div></div>`
-});
+// tech_forum.map(item=>{
+//     return document.querySelector('#tech-blog').innerHTML += `<div class="stack-container"><div class="stack-logo"><a href="${item.link}"><img src="${item.logo}" height="50px" width="50px" title="${item.title}"/></a></div><div class="stack-title">${item.title}</div></div>`
+// });
 
 //social-profile
 social_profile.map(item=>{
