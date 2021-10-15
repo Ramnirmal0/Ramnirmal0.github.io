@@ -1,5 +1,5 @@
 const dashboard = {
-    "dp":"./assests/img/nirmal.png",
+    "dp":"./assets/img/Nirmal Round Prof Id.png",
     "name" : "Nirmal Ram",
     "title" :"Software Engineer - Full Stack Developer | Freelancer | MEARN Stack Developer | Wordpress Expert | Researcher in Robotics & IoT",
     "about":"I worked as a freelancer for around 3-year during my college years before my first full-time job with an employer.Today i am leading few tech startups for passive income.<br><br> As a professional, I love to code and develop attractive, responsive, and faster web applications.My specialties include quickly learning new skills and programming languages, website optimization, and the MVC method of organizing code.My superpowers include strong knowledge in Javascript, ES6, HTML5, BootStrap, CSS3/SCSS/SASS, React.js, Node.js, Redux, Express.js, MongoDB, MySQL, PHP, Python, Java8, Appium, OpenSTF, Selenium, Swagger, Keycloak, Docker.<br><br>I'm still enthusiastically grabbing onto any programming language, framework, or principle I can integrate into the coding web in my head.My other hobbies are Sky Gazing, Binge Watching and Research about Space Science & Robotics, Mentoring for IoT and Robotics projects, Teaching and learning new stuff every day.<br><br>Visit my linkedIn profile for more information about my certification and achievements."
@@ -261,12 +261,12 @@ const startup=[
         "link":"#"
     },
     {
-        "logo":"./assets/img/logo2.png",
+        "logo":"./assets/img/torqueicon.ico",
         "name":"torQue+ Inc.",
         "link":"#"
     },
     {
-        "logo":"./assets/img/logo3.png",
+        "logo":"./assets/img/Gene logo 2018 Official transparent .png",
         "name":"Gene A.I",
         "link":"#"
     },
