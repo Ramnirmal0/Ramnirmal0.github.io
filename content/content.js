@@ -160,6 +160,13 @@ const research =[
         "image":"#",
         "title":"Hashpion OS",
         "desc":"Linux based Distros",
+        "status":"Ongoing"
+    },
+    {
+        "image":"#",
+        "title":"Hive MIND",
+        "desc":"Swarm robotics",
+        "status":"Active"
     },
 ]
 

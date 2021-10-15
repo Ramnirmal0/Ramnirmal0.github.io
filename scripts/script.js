@@ -33,8 +33,8 @@ portfolio.map(item=>{
 });
 
 //research
-techStack.map(item=>{
-    return document.querySelector('#research').innerHTML += `<div class="stack-container"><div class="stack-logo"><a href="${item.link}"><img src="${item.icon}" title="${item.title}"/></a></div><div class="stack-title">${item.title}</div></div>`
+research.map(item=>{
+    return document.querySelector('#research').innerHTML += `<div class="stack-container"><div class="stack-logo"><img src="${item.image}" height="50px" width="50px" title="${item.title}"/></div><div class="stack-title">${item.title}</div><div>${item.desc}</div><br><button class="${item.status}">${item.status}</button></div>`
 });
 
 //startup-owned
