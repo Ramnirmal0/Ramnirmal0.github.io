@@ -256,7 +256,7 @@ const publication =[
 
 const startup=[
     {
-        "logo":"https://zenprospect-production.s3.amazonaws.com/uploads/pictures/60586fd801a8ad00018d7965/picture",
+        "logo":"./assets/img/logo1.png",
         "name":"Pineapplem3 Inc.",
         "link":"https://www.apollo.io/companies/PineappleM3/5b14d400a6da98714a06bbb6"
     },
