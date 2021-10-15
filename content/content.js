@@ -106,16 +106,50 @@ const portfolio=[
     {
         "image":"#",
         "title":"ausmart",
-        "status":"live",
+        "link":"#",
+    },
+    {
+        "image":"#",
+        "title":"ausmart",
+        "link":"#",
+    },
+    {
+        "image":"#",
+        "title":"ausmart",
         "link":"#",
     },
 ]
 
 const contribution=[
     {
+        "logo":"#",
         "title":"torque++ software",
         "platform":"github",
-        "status":"ongoing",
+        "status":"Ongoing",
+        "link":"#",
+        "message":"no permisssion to view",
+    },
+    {
+        "logo":"#",
+        "title":"torque++ software",
+        "platform":"github",
+        "status":"Active",
+        "link":"#",
+        "message":"no permisssion to view",
+    },
+    {
+        "logo":"#",
+        "title":"torque++ software",
+        "platform":"github",
+        "status":"Inactive",
+        "link":"#",
+        "message":"no permisssion to view",
+    },
+    {
+        "logo":"#",
+        "title":"torque++ software",
+        "platform":"github",
+        "status":"Deprecated",
         "link":"#",
         "message":"no permisssion to view",
     },

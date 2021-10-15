@@ -6,7 +6,37 @@
     --divColor:rgb(31, 31, 31);
     --bioColor : rgb(192, 106, 7);
     --cardColor:rgb(206, 206, 206);
+    --ongoing:orange;
+    --active:green;
+    --inactive:grey;
+    --deprecated:red;
 }
+.Active{
+    background: var(--active);
+    padding:5px;
+    cursor:grab;
+    font-weight: bold;
+}
+.Ongoing{
+    background: var(--ongoing);
+    padding:5px;
+    cursor:progress;
+    font-weight: bold;
+}
+.Inactive{
+    background: var(--inactive);
+    padding:5px;
+    cursor:help;
+    font-weight: bold;
+}
+.Deprecated{
+    background: var(--deprecated);
+    padding:5px;
+    cursor:not-allowed;
+    font-weight: bold;
+    outline: none;
+}
+
 body{
     font-family: 'Roboto', sans-serif;
     color:var(--textColor);
@@ -101,7 +131,7 @@ h4{
     padding-bottom: 20px;
 
 }
-#tech-stack{
+#tech-stack , #contribution ,#notable-work, #research, #startup-owned , #tech-blog , #social-profiles{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
