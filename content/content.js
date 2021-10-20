@@ -222,12 +222,12 @@ const contribution=[
 ]
 
 const research =[
-    {
-        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png",
-        "title":"HashpionOS",
-        "desc":"Linux Distros",
-        "status":"Ongoing"
-    },
+    // {
+    //     "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png",
+    //     "title":"HashpionOS",
+    //     "desc":"Linux Distros",
+    //     "status":"Ongoing"
+    // },
     {
         "image":"https://cdn4.iconfinder.com/data/icons/spring-color-2/64/bee-honey-hive-insect-bumblebee-512.png",
         "title":"Hive MIND",
@@ -280,9 +280,14 @@ const startup=[
 
 const tech_forum =[
     {
-        "logo":"",
-        "title":"dev.io",
-        "link":"#",
+        "logo":"https://img.icons8.com/plumpy/48/000000/medium-logo.png",
+        "title":"Medium",
+        "link":"https://nirmalram.medium.com/",
+    },
+    {
+        "logo":"https://img.icons8.com/windows/48/000000/dev.png",
+        "title":"Dev.to",
+        "link":"https://dev.to/ramnirmal0",
     },
 ]
 
