@@ -44,37 +44,7 @@ body{
     margin:0;
     cursor: pointer;
 }
-/* ON-OFF Containers (block = ON , none = OFF */
-#about-us{
-    display: block
-}
-#freelance-service{
-    display: block
-}
-#tech-stack{
-    display: block
-}
-#contribution{
-    display: block
-}
-#notable-work{
-    display: block
-}
-#research{
-    display: block
-}
-#publication{
-    display: block
-}
-#startup-owned{
-    display: block
-}
-#tech-blog{
-    display: block
-}
-#social-profiles{
-    display: block
-}
+
 
 
 .dashboard-container{

@@ -43,9 +43,9 @@ publication.map(item=>{
 });
 
 //startup-owned
-startup.map(item=>{
-    return document.querySelector('#startup-owned').innerHTML += `<div class="stack-container"><div class="stack-logo"><a href="${item.link}"><img src="${item.logo}" height="50px" width="50px" title="${item.name}"/></a></div><div class="stack-title">${item.name}</div></div>`
-});
+// startup.map(item=>{
+//     return document.querySelector('#startup-owned').innerHTML += `<div class="stack-container"><div class="stack-logo"><a href="${item.link}"><img src="${item.logo}" height="50px" width="50px" title="${item.name}"/></a></div><div class="stack-title">${item.name}</div></div>`
+// });
 
 //technical-writes
 tech_forum.map(item=>{
