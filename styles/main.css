@@ -44,41 +44,6 @@ body{
     margin:0;
     cursor: pointer;
 }
-<<<<<<< HEAD
-
-=======
-/* ON-OFF Containers (block = ON , none = OFF */
-#about-us{
-    display: block
-}
-#freelance-service{
-    display: block
-}
-#tech-stack{
-    display: block
-}
-#contribution{
-    display: block
-}
-#notable-work{
-    display: block
-}
-#research{
-    display: block
-}
-#publication{
-    display: block
-}
-#startup-owned{
-    display: none
-}
-#tech-blog{
-    display: block
-}
-#social-profiles{
-    display: block
-}
->>>>>>> d3ca6d488084fa29b90bd19d9ba091c401a50106
 
 
 .dashboard-container{
