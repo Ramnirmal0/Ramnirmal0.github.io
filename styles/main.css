@@ -67,7 +67,7 @@ body{
     display: block
 }
 #startup-owned{
-    display: block
+    display: none
 }
 #tech-blog{
     display: block
