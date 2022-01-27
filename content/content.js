@@ -149,7 +149,7 @@ const techStack=[
 
 const portfolio=[
     {
-        "image":"https://ausmart.in/wp-content/uploads/2021/10/100x87-01-1.png",
+        "image":"https://artfertilityclinics.in/images/logo/loginlogo.png",
         "title":"Ausmart",
         "link":"http://ausmart.in/",
     },
