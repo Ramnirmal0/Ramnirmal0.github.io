@@ -26,7 +26,7 @@ const social_connect = [
 
 const freelance_service=[
     {
-        "image":"https://cdn.pixabay.com/photo/2015/04/20/13/17/work-731198_960_720.jpg",
+        "image":"https://cdn.pixabay.com/photo/2015/12/04/14/05/code-1076536_960_720.jpg",
         "title":"Web Application Development",
         "content":"",
     },
