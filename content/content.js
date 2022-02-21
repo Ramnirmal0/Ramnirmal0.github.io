@@ -149,11 +149,6 @@ const techStack=[
 
 const portfolio=[
     {
-        "image":"https://artfertilityclinics.in/images/logo/loginlogo.png",
-        "title":"Ausmart",
-        "link":"http://ausmart.in/",
-    },
-    {
         "image":"./assets/img/oie_CkJ5jXXcsnbo.png",
         "title":"EverBright Tradex",
         "link":"https://www.everbrighttradex.com/",
