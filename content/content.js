@@ -8,11 +8,6 @@ const dashboard = {
 // get icons from https://fontawesome.com/v5.15/
 const social_connect = [
     {
-        "social-icon":"fab fa-whatsapp",
-        "social-title":"WhatsApp",
-        "social-link":"https://wa.me/message/JGLKRCTBE63BN1",
-    },
-    {
         "social-icon":"fab fa-linkedin-in",
         "social-title":"LinkedIn",
         "social-link":"https://www.linkedin.com/in/nirmalram/",
@@ -20,7 +15,7 @@ const social_connect = [
     {
         "social-icon":"fab fa-google",
         "social-title":"Gmail",
-        "social-link":"mailto:pineapplem3care@gmail.com",
+        "social-link":"mailto:nirmalramofficial@gmail.com",
     },   
 ]
 
