@@ -15,7 +15,7 @@ const social_connect = [
     {
         "social-icon":"fab fa-google",
         "social-title":"Gmail",
-        "social-link":"mailto:nirmalramofficial@gmail.com",
+        "social-link":"mailto:ramnirmalofficial@gmail.com",
     },   
 ]
 
